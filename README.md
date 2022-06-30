@@ -3,7 +3,7 @@
 # Technical Contributions 
 - We validating Tgrade Chain in Mainnet [Validator's link](https://tgrade.aneka.io/validators/tgrade1kcdne83mkvygg7guueswnfyfwtsdmewywvnq5q)
 - We running three public Tgrade nodes for everyone who want to get onchain data without self-running a node
-1) https://rpc.tgrade.posthuman.digital/
+1) https://rpc.tgrade.posthuman.digital/ (with state sync support)
 2) https://grpc.tgrade.posthuman.digital/
 3) https://lcd.tgrade.posthuman.digital/
 
